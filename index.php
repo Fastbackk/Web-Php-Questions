@@ -36,7 +36,7 @@
     } else {
         echo "DOSYAYA ERİŞİLEMEDİ!";
     }
-    //ElhamdülillahiRabbilAlemin
+    //Görülmemiş kahramanlık Bedir günü, küffârın sancaktarıyken Umeyr,Esir edildiğinde, çok üzüldü kâfirler. Ebû Cehil, Kureyş’e vermek için cesaret,Şiirler söylüyor ve ediyordu çok gayret. (İşte bu günler için doğurdu beni anam!)Diyerek, gençler…
     ?>
 </body>
 
